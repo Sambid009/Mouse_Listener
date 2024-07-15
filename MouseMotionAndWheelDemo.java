@@ -5,6 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 
+
 class setcontros2 extends JFrame{
 
     JTextArea t1;
