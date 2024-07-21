@@ -16,9 +16,11 @@ class setcontros2 extends JFrame{
         l1=new JLabel("Result");
         
         
+        
         setSize(400,400);
         setLayout(new FlowLayout());
         setDefaultCloseOperation(3);
+
         
         
         add(t1);add(l1);
